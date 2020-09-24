@@ -1,3 +1,6 @@
 iidddddd...
-Creating a new branch is quick AND simple.
- and Simple master.
+<<<<<<< HEAD
+Creating a new branch is quick
+=======
+Creating a new branch is quick
+>>>>>>>
